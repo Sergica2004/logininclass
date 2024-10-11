@@ -1,0 +1,7 @@
+{
+  "name": "logininclass",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
